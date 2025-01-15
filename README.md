@@ -58,6 +58,11 @@ Add navigation items to the `nav` tag:
     https://github.com/MohanCheenu/Portfolio-Using-HTML-CSS-JS.git
 ```
 
+## 🎥 Showcase
+
+https://github.com/user-attachments/assets/a718974f-399c-4026-b850-cf20e25f923c
+
+
 ## 👨‍💻 Contact
 If you have any questions or suggestions, feel free to reach out to:
 

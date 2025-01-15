@@ -32,15 +32,36 @@ Include the scrollToSection function for smooth scrolling:
 Include the scrollToSection function for smooth scrolling:
 javascript
 ```bash
-function scrollToSection(sectionId) {
-    const targetSection = document.getElementById(sectionId);
-    targetSection.scrollIntoView({
-        behavior: 'smooth',
-        block: 'start'
-    });
-}
+    function scrollToSection(sectionId) {
+        const targetSection = document.getElementById(sectionId);
+        targetSection.scrollIntoView({
+            behavior: 'smooth',
+            block: 'start'
+        });
+    }
+```
+### Navigation Links Example
+
+Add navigation items to the `nav` tag:
+```bash
+<nav>
+    <p onclick="scrollToSection('home')">Home</p>
+    <p onclick="scrollToSection('about')">About</p>
+    <p onclick="scrollToSection('skills')">Skills</p>
+    <p onclick="scrollToSection('projects')">Projects</p>
+    <p onclick="scrollToSection('contact')">Contact</p>
+</nav>
+```
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/YourUsername/Smooth-Scroll-Web-Template.git
-cd Smooth-Scroll-Web-Template
+    git clone https://github.com/YourUsername/Smooth-Scroll-Web-Template.git
+    cd Smooth-Scroll-Web-Template
+```
+
+## 👨‍💻 Contact
+If you have any questions or suggestions, feel free to reach out to:
+
+Author: Mohan M
+Email: mohancheenu02@gmail.com
+GitHub: MohanCheenu

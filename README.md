@@ -27,6 +27,19 @@ Customize the content within the <section> tags to fit your requirements.
 JavaScript Implementation
 Include the scrollToSection function for smooth scrolling:
 
+### JavaScript Implementation
+
+Include the scrollToSection function for smooth scrolling:
+javascript
+```bash
+function scrollToSection(sectionId) {
+    const targetSection = document.getElementById(sectionId);
+    targetSection.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start'
+    });
+}
+
 ### Clone the Repository
 ```bash
 git clone https://github.com/YourUsername/Smooth-Scroll-Web-Template.git

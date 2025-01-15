@@ -55,8 +55,7 @@ Add navigation items to the `nav` tag:
 
 ### Clone the Repository
 ```bash
-    git clone https://github.com/YourUsername/Smooth-Scroll-Web-Template.git
-    cd Smooth-Scroll-Web-Template
+    https://github.com/MohanCheenu/Portfolio-Using-HTML-CSS-JS.git
 ```
 
 ## 👨‍💻 Contact

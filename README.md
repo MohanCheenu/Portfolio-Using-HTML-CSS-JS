@@ -10,6 +10,7 @@ The template allows users to effortlessly navigate between different sections of
     - Home
     - About
     - Skills
+    - Projects
     - Contact
 - **Customizable Animations**: Dynamic hover effects and responsive layouts adapt to various devices.
 - **Optimized Design for Performance**: Implements lightweight code for a smooth user experience without sacrificing speed.
@@ -20,6 +21,11 @@ The template allows users to effortlessly navigate between different sections of
 - **JavaScript**: Enable interactive functionality, such as smooth scrolling with `scrollIntoView`.
 
 ## 🚀 How to Use
+Setup the Project
+Open the `index.html` file in any modern web browser.
+Customize the content within the <section> tags to fit your requirements.
+JavaScript Implementation
+Include the scrollToSection function for smooth scrolling:
 
 ### Clone the Repository
 ```bash

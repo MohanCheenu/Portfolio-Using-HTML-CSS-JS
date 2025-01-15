@@ -66,6 +66,6 @@ https://github.com/user-attachments/assets/a718974f-399c-4026-b850-cf20e25f923c
 ## 👨‍💻 Contact
 If you have any questions or suggestions, feel free to reach out to:
 
-Author: Mohan M
-Email: mohancheenu02@gmail.com
-GitHub: MohanCheenu
+- Author: Mohan M
+- Email: mohancheenu02@gmail.com
+- GitHub: MohanCheenu
